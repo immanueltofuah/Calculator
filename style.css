@@ -1,0 +1,28 @@
+.first {
+    background: rgb(128,128,128);
+    text-align: right;
+    font-weight: larger;
+    color: white;
+}
+
+body {
+    border-top: black;
+}
+
+.org {
+    background: rgb(255,140,0);
+    color: white;
+}
+
+.gry{
+    background: rgb(211,211,211);
+    border-right: 1px solid grey;
+}
+
+.container {
+    text-align: center;
+    border-top: thick;
+}
+.row  {
+    border-bottom: 1px solid grey;
+}
